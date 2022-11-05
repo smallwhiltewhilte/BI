@@ -1,0 +1,55 @@
+====================   K is 6 ,  Object Funcion Value is 1.4903094619512558 ,  calc_distance_type is 1   ====================
+====================   classification 1   ====================
+Point{x=0.36, y=0.37}
+Point{x=0.483, y=0.312}
+Point{x=0.478, y=0.437}
+Point{x=0.525, y=0.369}
+Point{x=0.532, y=0.472}
+Point{x=0.473, y=0.376}
+Point{x=0.446, y=0.459}
+
+centroid is Point{x=0.47100002, y=0.39928573}
+
+====================   classification 2   ====================
+Point{x=0.634, y=0.264}
+Point{x=0.666, y=0.091}
+Point{x=0.639, y=0.161}
+Point{x=0.657, y=0.198}
+Point{x=0.719, y=0.103}
+Point{x=0.748, y=0.232}
+
+centroid is Point{x=0.6771667, y=0.17483334}
+
+====================   classification 3   ====================
+Point{x=0.608, y=0.318}
+Point{x=0.556, y=0.215}
+Point{x=0.481, y=0.149}
+Point{x=0.593, y=0.042}
+
+centroid is Point{x=0.5595, y=0.181}
+
+====================   classification 4   ====================
+
+centroid is Point{x=0.36171263, y=0.6172302}
+
+====================   classification 5   ====================
+Point{x=0.697, y=0.46}
+Point{x=0.774, y=0.376}
+Point{x=0.714, y=0.346}
+Point{x=0.751, y=0.489}
+Point{x=0.725, y=0.445}
+
+centroid is Point{x=0.73219997, y=0.42319998}
+
+====================   classification 6   ====================
+Point{x=0.403, y=0.237}
+Point{x=0.437, y=0.211}
+Point{x=0.243, y=0.267}
+Point{x=0.245, y=0.057}
+Point{x=0.343, y=0.099}
+Point{x=0.359, y=0.188}
+Point{x=0.339, y=0.241}
+Point{x=0.282, y=0.257}
+
+centroid is Point{x=0.331375, y=0.19462499}
+
